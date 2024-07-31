@@ -1,0 +1,15 @@
+40 | Utku | Brick per Level: 25 | Date: 11-05-2022 11:10:10
+100 | Omer | Brick per Level: 25 | Date: 11-05-2022 11:17:55
+40 | Ben | Brick per Level: 25 | Date: 11-05-2022 11:19:16 
+210 | BERK | Brick per Level: 25 | Date: 23-05-2022 17:25:16 
+140 | Emre | Brick per Level: 25 | Date: 23-05-2022 17:39:19 
+90 | Ali | Brick per Level: 25 | Date: 23-05-2022 18:11:58
+130 | Brian | Brick per Level: 25 | Date: 23-05-2022 18:33:54 
+180 | Adnan | Brick per Level: 25 | Date: 23-05-2022 21:13:53 
+570 | Mert | Brick per Level: 25 | Date: 23-05-2022 21:31:26 
+430 | Sdf | Brick per Level: 36 | Date: 23-05-2022 21:34:16 
+180 | A | Brick per Level: 25 | Date: 23-05-2022 23:08:02 
+100 | Tester | Brick per Level: 4 | Date: 25-05-2022 12:08:53 
+100 | Me | Brick per Level: 2 | Date: 25-05-2022 13:09:39 
+60 | Tester132 | Brick per Level: 1 | Date: 27-05-2022 22:10:48 
+60 | Ece | Brick per Level: 1 | Date: 28-05-2022 12:20:07 80 | asda | Brick per Level: 25 | Date: 31-07-2024 22:03:10 
